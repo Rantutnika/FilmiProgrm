@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\bin\Debug\Filmi11a.exe.config
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\bin\Debug\Filmi11a.exe
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\bin\Debug\Filmi11a.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\obj\Debug\Filmi11a.exe
+C:\Users\STUDENTS-STEM-9\Desktop\Десислава 11д- разр.софт\Filmi11a\Filmi11a\obj\Debug\Filmi11a.pdb
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\bin\Debug\Filmi11a.exe.config
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\bin\Debug\Filmi11a.exe
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\bin\Debug\Filmi11a.pdb
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\obj\Debug\Filmi11a.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\obj\Debug\Filmi11a.exe
+C:\Users\STUDENTS-STEM-9\Documents\Ivaka\Filmi11a\Filmi11a\obj\Debug\Filmi11a.pdb
